@@ -19,5 +19,10 @@ To analyze network topologies, understand architecture layouts, and evaluate net
 
 ---
 
+## 📸 Screenshots
+![Network Analysis Output](Screenshot%202026-10-01%20061441.png)
+
+---
+
 ## 🚀 Key Takeaway
 Learned how a well-structured and segmented network architecture is critical for containing breaches and minimizing attack surfaces in an organization.
